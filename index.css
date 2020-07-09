@@ -1,0 +1,90 @@
+/*T R B L*/
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+    max-width:100%;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    line-height: 1.5;
+    font-size: 1.6rem;
+}
+.plan{
+    width: 25%;
+    display: inline-block;
+    background-color: #FF764E;
+    margin: 2.5%;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+.learn{
+    width: 25%;
+    display: inline-block;
+    background-color: turquoise;
+    margin: 2.5%;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+.get{
+    width: 25%;
+    display: inline-block;
+    background-color: khaki;
+    margin: 2.5%;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+.mountain img{
+    width: 22.5%;
+    display: inline-block;
+    border-radius: 50%;
+    height: 300px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.park{
+    display: inline-block;
+    width: 30%;
+    margin: 20% 15% 20% 10%;
+    font-family: 'Chelsea Market', cursive;
+}
+h1{
+    font-family: 'Chelsea Market', cursive;
+    font-size: 3.5rem;
+}
+p{
+    font-family: 'Roboto Mono', monospace;
+}
+.info{
+    background-color:#DDB9A3;
+    color: white; 
+    text-align: center;
+}
+.fire{
+    width: 100%;
+    display: inline-block;
+    padding: 10%;
+    text-align: center;
+    padding: 15% 25% 0;
+}
+.truck img{
+    height: 500px;
+}
+.truck{
+    width: 100%;
+    display: inline-block;
+    padding: 10%;
+    text-align: center;
+    padding: 0 25% 15%;
+}
+.hills img{
+    height: 750px;
+}
+.bottom {
+    background-color: #F9E7DC;
+}
